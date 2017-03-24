@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SearchField>
+  <PackageStatus>
+    <ValueField>
+      <Key>Pending Activation</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i0_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Pending Activation Issue Resolution</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i1_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Pending Additional Customer Signature</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i2_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Pending Additional Witness Signature</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i3_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Pending Creator Re-Validation</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i4_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key> Pending Creator Submit</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i5_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Pending Credit Check Review</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i6_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Pending Credit Check Review Invalid</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i7_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Pending Customer Electronic Signature</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i8_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Pending Customer Physical Signature</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i9_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Pending Partner Re-Validation</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i10_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Pending Partner Submit</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i11_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Pending Partner Validation</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i12_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Pending ROC Document Preparation</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i13_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Pending ROC Pre-Validation</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i14_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Pending ROC Re-Validation</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i15_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Pending ROC Review</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i16_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Pending ROC Review Invalid</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i17_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Pending ROC Signature</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i18_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Pending ROC Signature Invalid</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i19_smartCheckBox</Value>
+    </ValueField>   
+    <ValueField>
+      <Key>Pending ROC Validation</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i20_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Pending Sub Signature</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i21_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Pending System Issue Resolution</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i22_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Pending Witness Electronic Signature</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i23_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Rejected</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i24_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Stale</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i25_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Validated Documents Pending Partner Review</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i26_smartCheckBox</Value>
+    </ValueField>    
+  </PackageStatus>
+  <!--REGION START: SIRIUS CHOICES-->
+  <BillToCountry>    
+    <ValueField>
+      <Key>Australia</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i0_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>France</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i1_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Germany</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i2_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Monaco</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i3_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>United Kingdom</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i4_smartCheckBox</Value>
+    </ValueField>    
+  </BillToCountry>
+  <!--REGION END-->
+  <OperationsCenter>
+    <ValueField>
+      <Key>Asia Pacific Ops Center</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i0_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>EMEA Ops Center</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i1_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>India Ops Cntr</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i2_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Japanese Ops Cntr</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i3_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>Latin American Ops Cntr</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i4_smartCheckBox</Value>
+    </ValueField>
+    <ValueField>
+      <Key>North American Ops Center</Key>
+      <Value>mainContentPlaceHolder_RadPanelBar1_i0_i0_SearchCriteriaSection_ValueDDL_i5_smartCheckBox</Value>
+    </ValueField>
+  </OperationsCenter>
+</SearchField>

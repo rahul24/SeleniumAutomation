@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>  
+  <TestCase Name="{TestCaseName}">
+    <LiveAuthentication>
+      <UserName>zzzz@live-int.com</UserName>
+      <Password>password</Password>
+    </LiveAuthentication>
+  </TestCase> 
+</Root>
+
