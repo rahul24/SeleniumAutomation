@@ -1,0 +1,34 @@
+{
+    "Test": {       
+        "ConfigChanges": [{
+            "KeyName": "/configuration/appSettings/add[@key='DefaultURL']",
+            "Attribute": "value",
+            "Value": "__APPURL__"
+        },
+		{
+			"KeyName": "/configuration/appSettings/add[@key='TestSupportBrowser']",
+            "Attribute": "value",
+            "Value": "__TestSupportBrowser__"
+		},
+		{
+			"KeyName": "/configuration/appSettings/add[@key='InputXML']",
+            "Attribute": "value",
+            "Value": "__InputXMLPath__"
+		},
+		{
+			"KeyName": "/configuration/appSettings/add[@key='SQLInputXML']",
+            "Attribute": "value",
+            "Value": "__SQLInputXMLPath__"
+		},
+		{
+			"KeyName": "/configuration/connectionStrings/add[@name='VLCM']",
+            "Attribute": "connectionString",
+            "Value": "Server=__DBServer__;Database=;Trusted_Connection=Yes;Connection Timeout=60"
+		},
+		{
+			"KeyName": "/configuration/connectionStrings/add[@name='MSL']",
+            "Attribute": "connectionString",
+            "Value": "Server=__DBServer__;Database=;Trusted_Connection=Yes;Connection Timeout=60"
+		}]
+    }
+}
